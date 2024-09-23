@@ -1,39 +1,29 @@
 # Note Collection
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+## 介绍
+由于本人习惯于写笔记，从读书研究阶段乃至刚入职场，仍然以手写笔记为主，尽管记录时影响深刻，但是不利于后续的追溯和分享，甚至在后续时常常因为手写潦草不利于辨认，转而重新google答案，周而复始，浪费许多时间。因此转而采用电子文档记录，方便自己的同时，希望能回馈同僚。
 
-#### 软件架构
-软件架构说明
+该笔记合集主要记录本人工作3年来的部分所见所思所想，其中多为读书/博客理解后的消化产物。由于手打较快，仍免不了有些错别字，意会就好..haha，而书籍/博客质量良莠不齐，因此无法保证本人消化后的内容在任何时间都具有可参考性，望各位大佬海涵，后续有机会会持续更新。
 
 
-#### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+## 目录
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1.  [基础常见数据库: Redis、MySQL](https://github.com/mxhe1996/noteCollection/blob/main/DataBase.md)
+2.  [Elasticsearch](https://github.com/mxhe1996/noteCollection/blob/main/Elasticsearch.md)
+3.  [微服务架构](https://github.com/mxhe1996/noteCollection/blob/main/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84.md)
+4.  [Hadoop](https://github.com/mxhe1996/noteCollection/blob/main/Hadoop.md)
+5.  [Java](https://github.com/mxhe1996/noteCollection/blob/main/Java.md)
+6.  [Spark](https://github.com/mxhe1996/noteCollection/blob/main/Spark.md)
+7.  [Spring boot/Cloud Alibaba](https://github.com/mxhe1996/noteCollection/blob/main/springBoot%E5%BC%BA%E5%8C%96.md)
+8.  [Kafka](https://github.com/mxhe1996/noteCollection/blob/main/kafka.md)
+
+
+
+
+
+
+
+后续有机会，会分享一些读书时的笔记（充数），和这几年来的地铁读物（非技术向）笔记分享
